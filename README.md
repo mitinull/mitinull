@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-I’m currently working on an exciting full stack web app called SmartTYPE.
-
-🌐 Explore the alpha version of the app: [Alpha Version Website](https://smarttype.vercel.app)
-
-Stay tuned for more updates as I continue to add new features! Feel free to reach out if you have any questions or want to get involved.
-
-![image](https://github.com/mitinull/mitinull/assets/80200060/7b517a0b-31f3-4957-a453-605217c904d7)
-
-
 <!--
 **mitinull/mitinull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
